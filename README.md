@@ -5,14 +5,20 @@ progressing from beginner to advanced real-world projects.
 
 ## 📌 Planned Projects
 
-- Whatsapp Bot
-- Send Emails
-- Store Emails in CSV
-- Fetch Tweets & Save CSV
-- Language Translator
-- Text to Speech
-- Speech to Text
-- XKCD Comics Downloader
+1. Telegram Bot with Commands		
+2. Email Auto-Responder		
+3. Scheduled Backup System		
+4. Folder Watcher with Auto Action		
+5. Automated Report Generator (CSV → PDF)		
+6. Invoice Generator		
+7. Data Sync Tool (local → cloud)		
+8. System Resource Monitor Bot		
+9. Monitoring Alert Bot		
+10. Cron Job Manager		
+11. Auto Data Backup Verifier		
+12. File Processing Pipeline Bot		
+13. Auto Deployment Script		
+14. Social Media Auto Poster (API-based)
 
 ### Clone the repository using the command:
    ```bash
