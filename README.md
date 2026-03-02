@@ -1,4 +1,4 @@
-### python-bots-automation
+### python-automation-systems
 
 This repository is part of a structured Python learning roadmap,
 progressing from beginner to advanced real-world projects.
@@ -22,7 +22,7 @@ progressing from beginner to advanced real-world projects.
 
 ### Clone the repository using the command:
    ```bash
-   git clone https://github.com/Sabirhusseinbalal/python-bots-automation.git
+   git clone https://github.com/Sabirhusseinbalal/python-automation-systems.git
    ```
 
 
