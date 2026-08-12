@@ -5,7 +5,6 @@ progressing from beginner to advanced real-world projects.
 
 ## 📌 Planned Projects
 
-#	Project	Status
 1.	Telegram Bot with Commands	✅ Completed
 2.	Discord Bot with Python	
 3.	Reddit Community Bot	
