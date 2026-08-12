@@ -15,13 +15,13 @@ progressing from beginner to advanced real-world projects.
 8.	Folder Watcher with Auto Action	
 9.	Automated Report Generator (CSV → PDF)	
 10.	Invoice Generator	
-11.	Data Sync Tool (local → cloud)	
-12.	System Resource Monitor Bot	
-13.	Monitoring Alert Bot	
-14.	Cron Job Manager	
-15.	Auto Data Backup Verifier	
-16.	File Processing Pipeline Bot	
-17.	Auto Deployment Script	Planned
+11.	File Processing Pipeline Bot
+12.	Data Sync Tool (Local → Cloud)	
+13.	System Resource Monitor Bot
+14.	Monitoring Alert Bot
+15.	Auto Data Backup Verifier
+16.	Cron Job Manager	
+17.	Auto Deployment Script
 18.	Social Media Auto Poster (API-based)
 
 ### Clone the repository using the command:
