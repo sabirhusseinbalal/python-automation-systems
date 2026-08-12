@@ -6,10 +6,10 @@ progressing from beginner to advanced real-world projects.
 ## 📌 Planned Projects
 
 #	Project	Status
-1	Telegram Bot with Commands	✅ Completed
-2	Discord Bot with Python	
-3	Reddit Community Bot	
-4	Slack Bot	
+1.	Telegram Bot with Commands	✅ Completed
+2.	Discord Bot with Python	
+3.	Reddit Community Bot	
+4.	Slack Bot	
 5	GitHub Automation Bot	
 6	Email Auto-Responder	
 7	Scheduled Backup System	
