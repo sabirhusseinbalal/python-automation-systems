@@ -5,20 +5,25 @@ progressing from beginner to advanced real-world projects.
 
 ## 📌 Planned Projects
 
-1. Telegram Bot with Commands		
-2. Email Auto-Responder		
-3. Scheduled Backup System		
-4. Folder Watcher with Auto Action		
-5. Automated Report Generator (CSV → PDF)		
-6. Invoice Generator		
-7. Data Sync Tool (local → cloud)		
-8. System Resource Monitor Bot		
-9. Monitoring Alert Bot		
-10. Cron Job Manager		
-11. Auto Data Backup Verifier		
-12. File Processing Pipeline Bot		
-13. Auto Deployment Script		
-14. Social Media Auto Poster (API-based)
+#	Project	Status
+1	Telegram Bot with Commands	✅ Completed
+2	Discord Bot with Python	
+3	Reddit Community Bot	
+4	Slack Bot	
+5	GitHub Automation Bot	
+6	Email Auto-Responder	
+7	Scheduled Backup System	
+8	Folder Watcher with Auto Action	
+9	Automated Report Generator (CSV → PDF)	
+10	Invoice Generator	
+11	Data Sync Tool (local → cloud)	
+12	System Resource Monitor Bot	
+13	Monitoring Alert Bot	
+14	Cron Job Manager	
+15	Auto Data Backup Verifier	
+16	File Processing Pipeline Bot	
+17	Auto Deployment Script	Planned
+18	Social Media Auto Poster (API-based)
 
 ### Clone the repository using the command:
    ```bash
