@@ -5,7 +5,7 @@ progressing from beginner to advanced real-world projects.
 
 ## 📌 Planned Projects
 
-1.	Telegram Bot with Commands	✅ Completed
+1.	[Telegram Bot with Commands ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/01_telegram_bot/)
 2.	Discord Bot with Python	
 3.	Reddit Community Bot	
 4.	Slack Bot	
