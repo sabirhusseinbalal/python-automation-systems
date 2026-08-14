@@ -121,7 +121,7 @@ This project focuses on the following Python and automation concepts:
 ## Project Structure
 
 ```text
-telegram-bot/
+01_telegram_bot/
 │
 ├── main.py
 ├── config.py
