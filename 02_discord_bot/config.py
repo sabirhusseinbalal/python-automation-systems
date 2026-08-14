@@ -7,4 +7,4 @@ TOKEN = os.getenv("TOKEN")
 LOG_CHANNEL = "bot-logs"
 
 if not TOKEN:
-    raise ValueError("DISCORD_TOKEN is not set.")
+    raise ValueError("TOKEN is not set.")
