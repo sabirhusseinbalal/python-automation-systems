@@ -68,9 +68,9 @@ For example, when a user sends:
 !hello
 ```
 
-Discord receives the message and Discord.py identifies the hello command.
+Discord receives the message and `Discord.py` identifies the `hello` command.
 
-The command route in bot.py then calls the hello() function from commands.py.
+The command route in `bot.py` then calls the `hello()` function from `commands.py`.
 
 The bot finally sends a response back to Discord.
 
