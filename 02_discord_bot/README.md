@@ -65,7 +65,7 @@ Response to User
 For example, when a user sends:
 
 ```text
-/hello
+!hello
 ```
 
 Discord receives the message and Discord.py identifies the hello command.
@@ -218,11 +218,6 @@ I am a Discord bot made with Python for learning.
 ```text
 !echo hello sabir
 → hello sabir
-```
-
-```text
-/echo
-→ Usage: /echo <message>
 ```
 
 ```text
