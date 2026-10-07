@@ -25,6 +25,7 @@ progressing from beginner to advanced real-world projects.
    15.	Auto Deployment Script
 
    — Final Capstone
+   
    16. Social Media Auto Poster (API-based)
 
 ### Clone the repository using the command:
