@@ -7,22 +7,24 @@ progressing from beginner to advanced real-world projects.
 
 1.	[Telegram Bot with Commands ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/01_telegram_bot/)
 2.	[Discord Bot with Python ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/02_discord_bot/)	
-3.	Reddit Community Bot	
-4.	Slack Bot	
-5.	GitHub Automation Bot	
-6.	Email Auto-Responder	
-7.	Scheduled Backup System	
-8.	Folder Watcher with Auto Action	
-9.	Automated Report Generator (CSV → PDF)	
-10.	Invoice Generator	
-11.	File Processing Pipeline Bot
-12.	Data Sync Tool (Local → Cloud)	
-13.	System Resource Monitor Bot
-14.	Monitoring Alert Bot
-15.	Auto Data Backup Verifier
-16.	Cron Job Manager	
-17.	Auto Deployment Script
-18.	Social Media Auto Poster (API-based)
+3.	GitHub Automation Bot
+4.	Email Auto-Responder
+5.	Scheduled Backup System
+6.	Folder Watcher with Auto Action
+7.	Automated Report Generator (CSV → PDF)
+8.	Invoice Generator
+9.	File Processing Pipeline Bot
+10.	Data Sync Tool (Local → Cloud)
+11.	Auto Data Backup Verifier
+12.	System Resource Monitor Bot
+13.	Monitoring Alert Bot
+14.	Cron Job Manager
+
+   — DevOps Automation
+15.	Auto Deployment Script
+
+   — Final Capstone
+16. Social Media Auto Poster (API-based)
 
 ### Clone the repository using the command:
    ```bash
