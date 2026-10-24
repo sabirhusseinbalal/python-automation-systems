@@ -1,0 +1,5 @@
+email,name,topic,resource_url
+alex@example.com,Alex,Python,https://docs.python.org/3/tutorial/
+sarah@example.com,Sarah,Mathematics,https://www.khanacademy.org/math
+john@example.com,John,Git and GitHub,https://docs.github.com/en/get-started
+emily@example.com,Emily,Web Development,https://developer.mozilla.org/en-US/docs/Learn_web_development
