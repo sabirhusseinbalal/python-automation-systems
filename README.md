@@ -7,7 +7,7 @@ progressing from beginner to advanced real-world projects.
 
 1.	[Telegram Bot with Commands ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/01_telegram_bot/)
 2.	[Discord Bot with Python ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/02_discord_bot/)	
-3.	Email Auto-Responder
+3.	[Email Sender ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/03_email_sender/)	
 4.	Scheduled Backup System
 5.	Folder Watcher with Auto Action
 6.	Automated Report Generator (CSV → PDF)
