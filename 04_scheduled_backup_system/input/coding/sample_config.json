@@ -1,0 +1,6 @@
+{
+  "project": "Scheduled Backup System",
+  "purpose": "Test ZIP archive creation",
+  "sample_interval_seconds": 30,
+  "notes": ["dummy data only", "safe to edit"]
+}

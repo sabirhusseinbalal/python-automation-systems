@@ -1,0 +1,2 @@
+This file keeps this sample folder visible in file browsers.
+You can delete this file to test how your backup handles empty folders.

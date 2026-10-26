@@ -1,0 +1,9 @@
+PYTHON NOTES
+
+print("Hello, world!")
+
+A function gives a task a name.
+A loop repeats work.
+A path points to a file or folder.
+A test helps us check our assumptions.
+Readable code is a kindness to your future self.
