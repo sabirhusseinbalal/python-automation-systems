@@ -9,7 +9,7 @@ progressing from beginner to advanced real-world projects.
 2.	[Discord Bot with Python ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/02_discord_bot/)	
 3.	[Email Sender ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/03_email_sender/)	
 4.	[Schedule Backup System ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/04_scheduled_backup_system/)
-5.	Folder Watcher with Auto Action
+5.	[Folder Watcher ✅](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/05_folder_watcher/)
 6.	Automated Report Generator (CSV → PDF)
 7.	Invoice Generator
 8.	File Processing Pipeline Bot
