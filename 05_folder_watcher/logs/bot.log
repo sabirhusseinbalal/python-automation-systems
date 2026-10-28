@@ -1,27 +1,9 @@
-2026-10-27 12:42:48,767 [INFO] Monitoring started: D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming
-2026-10-27 12:42:48,767 [INFO] Press Ctrl+C to stop.
-2026-10-27 12:42:57,426 [INFO] [MODIFIED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\hi.py
-2026-10-27 12:42:57,440 [INFO] [MODIFIED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\hi.py
-2026-10-27 12:42:57,440 [INFO] [MODIFIED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\hi.py
-2026-10-27 12:43:04,402 [INFO] [DELETED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\hi.py
-2026-10-27 12:43:32,464 [INFO] Stopping monitoring...
-2026-10-27 12:43:32,478 [INFO] Monitoring stopped.
-2026-10-27 16:16:59,562 [INFO] Monitoring started: D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming
-2026-10-27 16:16:59,571 [INFO] Press Ctrl+C to stop.
-2026-10-27 16:17:06,582 [INFO] [CREATED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\pp
-2026-10-27 16:17:10,103 [INFO] [DELETED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\pp
-2026-10-27 16:19:03,602 [INFO] Stopping monitoring...
-2026-10-27 16:19:03,623 [INFO] Monitoring stopped.
-2026-10-27 16:19:11,809 [INFO] Monitoring started: D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming
-2026-10-27 16:19:11,809 [INFO] Press Ctrl+C to stop.
-2026-10-27 16:19:18,463 [INFO] [CREATED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\ap,py
-2026-10-27 16:19:24,465 [INFO] [MODIFIED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\ap,py
-2026-10-27 16:19:24,474 [INFO] [MODIFIED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\ap,py
-2026-10-27 16:19:24,475 [INFO] [MODIFIED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\ap,py
-2026-10-27 16:19:33,918 [INFO] [DELETED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\ap,py
-2026-10-27 16:19:56,015 [INFO] Stopping monitoring...
-2026-10-27 16:19:56,033 [INFO] Monitoring stopped.
-2026-10-27 16:20:04,110 [INFO] Monitoring started: D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming
-2026-10-27 16:20:04,111 [INFO] Press Ctrl+C to stop.
-2026-10-27 16:20:10,351 [INFO] Stopping monitoring...
-2026-10-27 16:20:10,365 [INFO] Monitoring stopped.
+2026-10-28 12:43:09,152 [ERROR] Folder not found: D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming
+2026-10-28 12:44:12,443 [INFO] Monitoring started: D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming
+2026-10-28 12:44:12,443 [INFO] Press Ctrl+C to stop.
+2026-10-28 12:44:19,294 [INFO] [CREATED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\hello.c
+2026-10-28 12:44:32,767 [INFO] [MODIFIED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\hello.c
+2026-10-28 12:44:32,774 [INFO] [MODIFIED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\hello.c
+2026-10-28 12:44:32,792 [INFO] [MODIFIED] D:\Sabir Hussain Balal\Python\Projects\Beginner\07_automation_systems_&_bots\05_folder_watcher\incoming\hello.c
+2026-10-28 12:44:34,574 [INFO] Stopping monitoring...
+2026-10-28 12:44:34,595 [INFO] Monitoring stopped.
