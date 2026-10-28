@@ -32,13 +32,13 @@ It watches a selected folder and records when files or folders are created, dele
 ```text
 05_folder_watcher/
 ├── main.py
-├── file_actions.py
+├── watcher.py
 ├── event_handler.py
 ├── logger.py
 ├── config.py
-├── input/
+├── incoming/
 ├── logs/
-│   └── folder_watcher.log
+│   └── bot.log
 ├── requirements.txt
 └── README.md
 ```
@@ -53,7 +53,7 @@ It watches a selected folder and records when files or folders are created, dele
    pip install -r requirements.txt
    ```
 
-2. Create an `input/` folder in the project directory.
+2. Create an `incoming/` folder in the project directory.
 
 3. Run the program:
 
@@ -61,8 +61,8 @@ It watches a selected folder and records when files or folders are created, dele
    python main.py
    ```
 
-4. Create, edit, rename, or delete files inside `input/` and check the terminal or log file.
+4. Create, edit, rename, or delete files inside `incoming/` and check the terminal or log file.
 
 5. Press `Ctrl+C` to stop monitoring.
 
-**Note:** This version records folder changes but does not yet perform automatic file actions. Moving, organizing, or processing files automatically can be added in a future update.
+**Note:** This version records folder changes but does not yet perform automatic file actions. A future update can add automatic file moving, organizing, or processing.
