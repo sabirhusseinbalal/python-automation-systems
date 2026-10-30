@@ -1,0 +1,201 @@
+order_date,invoice_no,customer_id,customer,product_id,product,category,segment,quantity,unit_cost,unit_price,revenue,cost,margin,ship_date
+2026-10-23,1,4,Sleek Custodians of Granitecrest,6,Sleek Antibacterial Spray,cleaning supplies,segA,2,32,60.48,120.96,64,56.96,2026-10-26
+2026-10-19,8,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,1,23,34.96,34.96,23,11.96,2026-10-20
+2026-10-16,10,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,9,32,52.48,472.32,288,184.32,2026-10-19
+2026-10-15,11,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,12,32,52.48,629.76,384,245.76,2026-10-16
+2026-10-08,13,2,Pristine Keepers of Harborburg,3,Bright Staplers,office products,segA,3,45,58.95,176.85,135,41.85,2026-10-23
+2026-10-08,13,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,2,23,34.96,69.92,46,23.92,2026-10-23
+2026-10-08,14,3,Bright Maintainers of Cedarhaven,5,Immaculate Disinfectant Wipes,cleaning supplies,segA,31,48,90.24,2797.44,1488,1309.44,2026-10-23
+2026-10-08,14,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,37,32,56.96,2107.52,1184,923.52,2026-10-23
+2026-10-07,15,2,Pristine Keepers of Harborburg,10,Glossy Recycled Paper,copy paper,segA,4,57,82.08,328.32,228,100.32,2026-10-08
+2026-10-06,17,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,28,32,56.96,1594.88,896,698.88,2026-10-07
+2026-10-06,17,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,50,23,31.28,1564,1150,414,2026-10-07
+2026-09-30,19,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,1,23,34.96,34.96,23,11.96,2026-10-01
+2026-09-29,22,10,Immaculate Providers of Graniteton,9,Immaculate Resume Paper,copy paper,segB,4,23,35.88,143.52,92,51.52,2026-09-30
+2026-09-28,24,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-09-29
+2026-09-28,26,8,Immaculate Janitors of Forestville,4,Polished Binder Clips,office products,segC,1,23,32.43,32.43,23,9.43,2026-09-29
+2026-09-22,31,7,Immaculate Wholesalers of Bayburg,7,Fresh Microwave Popcorn,breakroom supplies,segB,1,6,11.16,11.16,6,5.16,2026-09-23
+2026-09-17,33,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,15,32,52.48,787.2,480,307.2,2026-09-18
+2026-09-16,34,2,Pristine Keepers of Harborburg,3,Bright Staplers,office products,segA,2,45,58.95,117.9,90,27.9,2026-09-17
+2026-09-16,34,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,1,23,34.96,34.96,23,11.96,2026-09-17
+2026-09-16,34,2,Pristine Keepers of Harborburg,10,Glossy Recycled Paper,copy paper,segA,5,57,82.08,410.4,285,125.4,2026-09-17
+2026-09-16,35,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2026-09-17
+2026-09-15,37,6,Dazzling Maintainers of Lakedale,6,Sleek Antibacterial Spray,cleaning supplies,segD,5,32,67.84,339.2,160,179.2,2026-09-16
+2026-09-14,39,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-09-15
+2026-09-14,39,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-09-15
+2026-09-10,40,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-09-11
+2026-09-10,41,6,Dazzling Maintainers of Lakedale,10,Glossy Recycled Paper,copy paper,segA,34,57,86.07,2926.38,1938,988.38,2026-09-11
+2026-09-09,42,3,Bright Maintainers of Cedarhaven,4,Polished Binder Clips,office products,segA,67,23,35.19,2357.73,1541,816.73,2026-09-10
+2026-09-09,42,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,45,23,31.28,1407.6,1035,372.6,2026-09-10
+2026-09-07,44,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,2,23,34.96,69.92,46,23.92,2026-09-22
+2026-09-07,44,2,Pristine Keepers of Harborburg,10,Glossy Recycled Paper,copy paper,segA,4,57,82.08,328.32,228,100.32,2026-09-22
+2026-09-03,45,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-09-18
+2026-09-02,46,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,8,32,52.48,419.84,256,163.84,2026-09-03
+2026-09-02,46,9,Fresh Providers of Riverdale,9,Immaculate Resume Paper,copy paper,segD,3,23,39.79,119.37,69,50.37,2026-09-03
+2026-09-01,47,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,7,32,52.48,367.36,224,143.36,2026-09-02
+2026-08-24,50,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,46,32,56.96,2620.16,1472,1148.16,2026-09-08
+2026-08-24,50,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,33,23,31.28,1032.24,759,273.24,2026-09-08
+2026-08-17,54,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2026-08-18
+2026-07-27,69,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,39,32,56.96,2221.44,1248,973.44,2026-07-28
+2026-07-27,69,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,34,23,31.28,1063.52,782,281.52,2026-07-28
+2026-07-23,72,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,32,32,56.96,1822.72,1024,798.72,2026-07-24
+2026-07-23,72,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,39,23,31.28,1219.92,897,322.92,2026-07-24
+2026-07-17,74,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-07-20
+2026-07-17,74,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-07-20
+2026-07-16,75,10,Immaculate Providers of Graniteton,10,Glossy Recycled Paper,copy paper,segB,5,57,87.21,436.05,285,151.05,2026-07-17
+2026-07-08,78,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,38,32,56.96,2164.48,1216,948.48,2026-07-09
+2026-07-03,80,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-07-06
+2026-07-03,80,5,Spotless Janitors of Mountville,6,Sleek Antibacterial Spray,cleaning supplies,segB,45,32,51.2,2304,1440,864,2026-07-06
+2026-07-02,81,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,47,32,56.96,2677.12,1504,1173.12,2026-07-03
+2026-07-02,81,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,49,23,31.28,1532.72,1127,405.72,2026-07-03
+2026-06-30,83,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2026-07-01
+2026-06-30,83,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-07-01
+2026-06-29,85,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,4,23,31.28,125.12,92,33.12,2026-06-30
+2026-06-19,92,2,Pristine Keepers of Harborburg,10,Glossy Recycled Paper,copy paper,segA,3,57,82.08,246.24,171,75.24,2026-06-22
+2026-06-18,93,2,Pristine Keepers of Harborburg,3,Bright Staplers,office products,segA,3,45,58.95,176.85,135,41.85,2026-06-19
+2026-06-18,93,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,1,23,34.96,34.96,23,11.96,2026-06-19
+2026-06-18,93,2,Pristine Keepers of Harborburg,10,Glossy Recycled Paper,copy paper,segA,4,57,82.08,328.32,228,100.32,2026-06-19
+2026-06-18,95,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2026-06-19
+2026-06-15,97,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,1,23,34.96,34.96,23,11.96,2026-06-30
+2026-06-15,98,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-06-16
+2026-06-11,100,7,Immaculate Wholesalers of Bayburg,7,Fresh Microwave Popcorn,breakroom supplies,segB,1,6,11.16,11.16,6,5.16,2026-06-12
+2026-06-11,101,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,14,32,52.48,734.72,448,286.72,2026-06-12
+2026-06-09,103,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,10,32,52.48,524.8,320,204.8,2026-06-10
+2026-06-04,104,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2026-06-05
+2026-06-02,105,3,Bright Maintainers of Cedarhaven,5,Immaculate Disinfectant Wipes,cleaning supplies,segA,42,48,90.24,3790.08,2016,1774.08,2026-06-03
+2026-06-02,105,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,45,32,56.96,2563.2,1440,1123.2,2026-06-03
+2026-06-02,105,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,44,23,31.28,1376.32,1012,364.32,2026-06-03
+2026-06-01,107,3,Bright Maintainers of Cedarhaven,5,Immaculate Disinfectant Wipes,cleaning supplies,segA,42,48,90.24,3790.08,2016,1774.08,2026-06-02
+2026-06-01,107,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,47,32,56.96,2677.12,1504,1173.12,2026-06-02
+2026-06-01,107,3,Bright Maintainers of Cedarhaven,10,Glossy Recycled Paper,copy paper,segA,43,57,79.23,3406.89,2451,955.89,2026-06-02
+2026-05-27,110,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,55,23,31.28,1720.4,1265,455.4,2026-05-28
+2026-05-26,111,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,14,32,52.48,734.72,448,286.72,2026-05-27
+2026-05-25,112,2,Pristine Keepers of Harborburg,3,Bright Staplers,office products,segA,3,45,58.95,176.85,135,41.85,2026-05-26
+2026-05-22,114,3,Bright Maintainers of Cedarhaven,5,Immaculate Disinfectant Wipes,cleaning supplies,segA,26,48,90.24,2346.24,1248,1098.24,2026-06-08
+2026-05-22,114,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,56,23,31.28,1751.68,1288,463.68,2026-06-08
+2026-05-20,116,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-05-21
+2026-05-20,116,5,Spotless Janitors of Mountville,5,Immaculate Disinfectant Wipes,cleaning supplies,segB,1,48,85.44,85.44,48,37.44,2026-05-21
+2026-05-14,120,10,Immaculate Providers of Graniteton,2,Dazzling Roll Paper Towels,paper & tissue,segB,2,28,42.56,85.12,56,29.12,2026-05-15
+2026-05-14,120,10,Immaculate Providers of Graniteton,9,Immaculate Resume Paper,copy paper,segB,5,23,35.88,179.4,115,64.4,2026-05-15
+2026-05-13,121,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-05-21
+2026-05-13,121,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-05-21
+2026-05-13,122,7,Immaculate Wholesalers of Bayburg,10,Glossy Recycled Paper,copy paper,segD,1,57,99.75,99.75,57,42.75,2026-05-28
+2026-05-13,123,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2026-05-14
+2026-05-12,125,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-05-13
+2026-05-12,125,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-05-13
+2026-05-12,126,7,Immaculate Wholesalers of Bayburg,6,Sleek Antibacterial Spray,cleaning supplies,segA,11,32,48,528,352,176,2026-05-13
+2026-05-08,128,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-05-11
+2026-05-08,128,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-05-11
+2026-05-06,129,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2026-05-21
+2026-04-27,131,4,Sleek Custodians of Granitecrest,5,Immaculate Disinfectant Wipes,cleaning supplies,segA,1,48,81.6,81.6,48,33.6,2026-04-28
+2026-04-27,131,4,Sleek Custodians of Granitecrest,8,Spotless Coffee Beans,breakroom supplies,segC,1,23,48.3,48.3,23,25.3,2026-04-28
+2026-04-27,132,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-04-28
+2026-04-22,135,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-04-23
+2026-04-14,140,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2026-04-22
+2026-04-14,140,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-04-22
+2026-04-14,141,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2026-04-15
+2026-04-13,142,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,33,32,56.96,1879.68,1056,823.68,2026-04-28
+2026-04-13,142,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,54,23,31.28,1689.12,1242,447.12,2026-04-28
+2026-04-10,144,5,Spotless Janitors of Mountville,3,Bright Staplers,office products,segA,3,45,60.3,180.9,135,45.9,2026-04-13
+2026-04-10,144,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2026-04-13
+2026-04-10,146,10,Immaculate Providers of Graniteton,10,Glossy Recycled Paper,copy paper,segB,3,57,87.21,261.63,171,90.63,2026-04-13
+2026-04-06,150,6,Dazzling Maintainers of Lakedale,2,Dazzling Roll Paper Towels,paper & tissue,segC,21,28,42.56,893.76,588,305.76,2026-04-07
+2026-04-06,150,6,Dazzling Maintainers of Lakedale,9,Immaculate Resume Paper,copy paper,segA,72,23,34.96,2517.12,1656,861.12,2026-04-07
+2026-04-03,151,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-04-06
+2026-04-02,152,4,Sleek Custodians of Granitecrest,7,Fresh Microwave Popcorn,breakroom supplies,segC,1,6,11.28,11.28,6,5.28,2026-04-03
+2026-04-02,153,10,Immaculate Providers of Graniteton,10,Glossy Recycled Paper,copy paper,segB,4,57,87.21,348.84,228,120.84,2026-04-03
+2026-03-30,154,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,47,32,56.96,2677.12,1504,1173.12,2026-03-31
+2026-03-30,154,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,42,23,31.28,1313.76,966,347.76,2026-03-31
+2026-03-27,156,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,1,23,34.96,34.96,23,11.96,2026-03-30
+2026-03-19,161,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,33,32,56.96,1879.68,1056,823.68,2026-03-20
+2026-03-16,167,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2026-03-17
+2026-03-16,168,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,12,32,52.48,629.76,384,245.76,2026-03-17
+2026-03-12,169,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,27,32,56.96,1537.92,864,673.92,2026-03-13
+2026-03-12,169,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,36,23,31.28,1126.08,828,298.08,2026-03-13
+2026-03-11,170,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,10,32,52.48,524.8,320,204.8,2026-03-12
+2026-03-11,171,10,Immaculate Providers of Graniteton,10,Glossy Recycled Paper,copy paper,segB,5,57,87.21,436.05,285,151.05,2026-03-12
+2026-03-09,173,10,Immaculate Providers of Graniteton,10,Glossy Recycled Paper,copy paper,segB,3,57,87.21,261.63,171,90.63,2026-03-10
+2026-03-06,174,3,Bright Maintainers of Cedarhaven,7,Fresh Microwave Popcorn,breakroom supplies,segB,9,6,11.4,102.6,54,48.6,2026-03-09
+2026-03-04,175,6,Dazzling Maintainers of Lakedale,3,Bright Staplers,office products,segB,12,45,72.9,874.8,540,334.8,2026-03-05
+2026-03-03,177,3,Bright Maintainers of Cedarhaven,3,Bright Staplers,office products,segA,20,45,63.9,1278,900,378,2026-03-04
+2026-03-03,177,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,38,23,31.28,1188.64,874,314.64,2026-03-04
+2026-03-02,179,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-03-03
+2026-02-27,181,7,Immaculate Wholesalers of Bayburg,6,Sleek Antibacterial Spray,cleaning supplies,segA,6,32,48,288,192,96,2026-03-02
+2026-02-26,182,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2026-02-27
+2026-02-26,182,5,Spotless Janitors of Mountville,7,Fresh Microwave Popcorn,breakroom supplies,segA,2,6,11.58,23.16,12,11.16,2026-02-27
+2026-02-25,184,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-02-26
+2026-02-20,185,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2026-03-09
+2026-02-18,186,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,49,23,31.28,1532.72,1127,405.72,2026-02-19
+2026-02-18,187,4,Sleek Custodians of Granitecrest,2,Dazzling Roll Paper Towels,paper & tissue,segD,1,28,48.72,48.72,28,20.72,2026-03-05
+2026-02-16,191,1,Bright Cleaners of Gardenfield,8,Spotless Coffee Beans,breakroom supplies,segD,1,23,51.98,51.98,23,28.98,2026-02-17
+2026-02-16,192,3,Bright Maintainers of Cedarhaven,3,Bright Staplers,office products,segA,19,45,63.9,1214.1,855,359.1,2026-02-17
+2026-02-16,192,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,50,23,31.28,1564,1150,414,2026-02-17
+2026-02-13,194,2,Pristine Keepers of Harborburg,10,Glossy Recycled Paper,copy paper,segA,6,57,82.08,492.48,342,150.48,2026-02-16
+2026-02-11,195,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-02-12
+2026-02-11,197,10,Immaculate Providers of Graniteton,2,Dazzling Roll Paper Towels,paper & tissue,segB,2,28,42.56,85.12,56,29.12,2026-02-26
+2026-02-09,199,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,38,23,31.28,1188.64,874,314.64,2026-02-10
+2026-02-04,202,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,7,32,52.48,367.36,224,143.36,2026-02-05
+2026-02-04,203,10,Immaculate Providers of Graniteton,10,Glossy Recycled Paper,copy paper,segB,5,57,87.21,436.05,285,151.05,2026-02-05
+2026-01-26,208,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,4,23,31.28,125.12,92,33.12,2026-01-27
+2026-01-26,208,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-01-27
+2026-01-20,209,6,Dazzling Maintainers of Lakedale,10,Glossy Recycled Paper,copy paper,segA,18,57,86.07,1549.26,1026,523.26,2026-01-21
+2026-01-19,210,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,32,32,56.96,1822.72,1024,798.72,2026-01-20
+2026-01-09,214,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,30,23,31.28,938.4,690,248.4,2026-01-12
+2026-01-09,215,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,2,23,31.28,62.56,46,16.56,2026-01-19
+2026-01-09,215,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2026-01-19
+2026-01-09,216,7,Immaculate Wholesalers of Bayburg,3,Bright Staplers,office products,segD,1,45,77.85,77.85,45,32.85,2026-01-26
+2026-01-09,216,7,Immaculate Wholesalers of Bayburg,4,Polished Binder Clips,office products,segD,1,23,38.87,38.87,23,15.87,2026-01-26
+2026-01-09,216,7,Immaculate Wholesalers of Bayburg,7,Fresh Microwave Popcorn,breakroom supplies,segB,1,6,11.16,11.16,6,5.16,2026-01-26
+2026-01-05,217,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2026-01-06
+2026-01-01,221,3,Bright Maintainers of Cedarhaven,7,Fresh Microwave Popcorn,breakroom supplies,segB,8,6,11.4,91.2,48,43.2,2026-01-02
+2026-01-01,221,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,31,23,31.28,969.68,713,256.68,2026-01-02
+2025-12-25,222,2,Pristine Keepers of Harborburg,3,Bright Staplers,office products,segA,1,45,58.95,58.95,45,13.95,2025-12-26
+2025-12-17,227,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,36,23,31.28,1126.08,828,298.08,2025-12-25
+2025-12-11,228,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,38,32,56.96,2164.48,1216,948.48,2025-12-12
+2025-12-11,229,9,Fresh Providers of Riverdale,2,Dazzling Roll Paper Towels,paper & tissue,segC,4,28,44.52,178.08,112,66.08,2025-12-12
+2025-12-10,230,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,4,23,31.28,125.12,92,33.12,2025-12-11
+2025-12-10,230,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2025-12-11
+2025-12-08,233,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,43,32,56.96,2449.28,1376,1073.28,2025-12-09
+2025-12-08,233,3,Bright Maintainers of Cedarhaven,10,Glossy Recycled Paper,copy paper,segA,54,57,79.23,4278.42,3078,1200.42,2025-12-09
+2025-12-03,234,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,4,23,31.28,125.12,92,33.12,2025-12-04
+2025-12-02,236,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2025-12-03
+2025-11-28,237,2,Pristine Keepers of Harborburg,3,Bright Staplers,office products,segA,3,45,58.95,176.85,135,41.85,2025-12-08
+2025-11-27,240,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,4,23,31.28,125.12,92,33.12,2025-11-28
+2025-11-27,240,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2025-11-28
+2025-11-27,241,8,Immaculate Janitors of Forestville,10,Glossy Recycled Paper,copy paper,segB,2,57,93.48,186.96,114,72.96,2025-11-28
+2025-11-26,245,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2025-11-27
+2025-11-26,245,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2025-11-27
+2025-11-25,246,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2025-12-10
+2025-11-19,249,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2025-11-20
+2025-11-11,252,10,Immaculate Providers of Graniteton,10,Glossy Recycled Paper,copy paper,segB,5,57,87.21,436.05,285,151.05,2025-11-12
+2025-11-06,255,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,54,23,31.28,1689.12,1242,447.12,2025-11-21
+2025-11-05,257,3,Bright Maintainers of Cedarhaven,6,Sleek Antibacterial Spray,cleaning supplies,segA,37,32,56.96,2107.52,1184,923.52,2025-11-06
+2025-11-05,257,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,32,23,31.28,1000.96,736,264.96,2025-11-06
+2025-11-04,258,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,3,23,31.28,93.84,69,24.84,2025-11-05
+2025-11-04,258,5,Spotless Janitors of Mountville,7,Fresh Microwave Popcorn,breakroom supplies,segA,1,6,11.58,11.58,6,5.58,2025-11-05
+2025-11-04,258,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2025-11-05
+2025-11-04,259,6,Dazzling Maintainers of Lakedale,10,Glossy Recycled Paper,copy paper,segA,28,57,86.07,2409.96,1596,813.96,2025-11-05
+2025-11-03,260,6,Dazzling Maintainers of Lakedale,6,Sleek Antibacterial Spray,cleaning supplies,segD,6,32,67.84,407.04,192,215.04,2025-11-04
+2025-10-30,263,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2025-11-07
+2025-10-27,264,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,11,32,52.48,577.28,352,225.28,2025-10-28
+2025-10-24,265,3,Bright Maintainers of Cedarhaven,9,Immaculate Resume Paper,copy paper,segA,36,23,31.28,1126.08,828,298.08,2025-10-27
+2025-10-24,266,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,11,32,52.48,577.28,352,225.28,2025-10-27
+2025-10-21,268,2,Pristine Keepers of Harborburg,3,Bright Staplers,office products,segA,3,45,58.95,176.85,135,41.85,2025-10-22
+2025-10-21,268,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,2,23,34.96,69.92,46,23.92,2025-10-22
+2025-10-16,271,2,Pristine Keepers of Harborburg,4,Polished Binder Clips,office products,segA,2,23,34.96,69.92,46,23.92,2025-10-17
+2025-10-14,276,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,7,32,52.48,367.36,224,143.36,2025-10-22
+2025-10-10,278,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,15,32,52.48,787.2,480,307.2,2025-10-13
+2025-10-08,279,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,10,32,52.48,524.8,320,204.8,2025-10-09
+2025-10-03,281,5,Spotless Janitors of Mountville,4,Polished Binder Clips,office products,segA,4,23,31.28,125.12,92,33.12,2025-10-06
+2025-10-03,282,9,Fresh Providers of Riverdale,6,Sleek Antibacterial Spray,cleaning supplies,segA,13,32,52.48,682.24,416,266.24,2025-10-06
+2025-10-02,285,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2025-10-10
+2025-10-01,287,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2025-10-09
+2025-09-29,289,8,Immaculate Janitors of Forestville,2,Dazzling Roll Paper Towels,paper & tissue,segC,1,28,39.76,39.76,28,11.76,2025-10-14
+2025-09-29,289,8,Immaculate Janitors of Forestville,9,Immaculate Resume Paper,copy paper,segB,1,23,37.49,37.49,23,14.49,2025-10-14
+2025-09-26,292,6,Dazzling Maintainers of Lakedale,2,Dazzling Roll Paper Towels,paper & tissue,segC,17,28,42.56,723.52,476,247.52,2025-10-06
+2025-09-24,294,10,Immaculate Providers of Graniteton,3,Bright Staplers,office products,segD,3,45,79.2,237.6,135,102.6,2025-09-25
+2025-09-19,297,10,Immaculate Providers of Graniteton,10,Glossy Recycled Paper,copy paper,segB,3,57,87.21,261.63,171,90.63,2025-09-22
+2025-09-17,300,10,Immaculate Providers of Graniteton,10,Glossy Recycled Paper,copy paper,segB,2,57,87.21,174.42,114,60.42,2025-09-18
+2025-09-16,301,5,Spotless Janitors of Mountville,8,Spotless Coffee Beans,breakroom supplies,segA,1,23,43.01,43.01,23,20.01,2025-09-17
+2025-09-15,305,5,Spotless Janitors of Mountville,3,Bright Staplers,office products,segA,4,45,60.3,241.2,180,61.2,2025-09-16
+2025-09-11,311,7,Immaculate Wholesalers of Bayburg,8,Spotless Coffee Beans,breakroom supplies,segB,1,23,42.09,42.09,23,19.09,2025-09-19
