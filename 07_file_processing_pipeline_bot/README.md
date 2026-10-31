@@ -66,7 +66,6 @@ It scans an input folder, detects file types, validates files, and processes the
 │   └── _staging/
 ├── logs/
 │   └── bot.log
-├── requirements.txt
 └── README.md
 ```
 
