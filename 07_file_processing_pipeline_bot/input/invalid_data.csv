@@ -1,0 +1,4 @@
+order_id,customer,amount
+5001,Ali,250.00
+5002,Sara,
+5003,John,not-a-number
