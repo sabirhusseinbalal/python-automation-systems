@@ -11,7 +11,7 @@ progressing from beginner to advanced real-world projects.
 4.	[Schedule Backup System](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/04_scheduled_backup_system/)
 5.	[Folder Watcher](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/05_folder_watcher/)
 6.	[Automated Report Generator](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/06_automated_report_generator/)
-07.	File Processing Pipeline Bot
+07.[File Processing Pipeline_Bot](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/07_file_processing_pipeline_bot/)
 08.	Data Sync Tool (Local → Cloud)
 09.	Cron Job Manager
 
