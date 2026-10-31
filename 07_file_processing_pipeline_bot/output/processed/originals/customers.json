@@ -1,0 +1,22 @@
+{
+    "customers": [
+        {
+            "id": 101,
+            "name": "Ali Khan",
+            "email": "ali@example.com",
+            "city": "Hyderabad"
+        },
+        {
+            "id": 102,
+            "name": "Sara Ahmed",
+            "email": "sara@example.com",
+            "city": "Karachi"
+        },
+        {
+            "id": 103,
+            "name": "John Smith",
+            "email": "john@example.com",
+            "city": "Lahore"
+        }
+    ]
+}

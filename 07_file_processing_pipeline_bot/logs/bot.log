@@ -1,0 +1,16 @@
+2026-10-31 16:07:59,522 [INFO] Pipeline started. Found 14 files.
+2026-10-31 16:07:59,526 [INFO] Successfully processed: calculator.cpp
+2026-10-31 16:07:59,598 [INFO] Successfully processed: customers.json
+2026-10-31 16:07:59,628 [INFO] Successfully processed: hello.php
+2026-10-31 16:07:59,629 [WARNING] Validation failed: invalid_customers.json
+2026-10-31 16:07:59,633 [WARNING] Validation failed: invalid_data.csv
+2026-10-31 16:07:59,635 [INFO] Successfully processed: morning_poetry.txt
+2026-10-31 16:07:59,638 [INFO] Successfully processed: motivational_quotes.txt
+2026-10-31 16:07:59,640 [INFO] Successfully processed: Program.cs
+2026-10-31 16:07:59,641 [INFO] Successfully processed: python_notes.md
+2026-10-31 16:07:59,654 [INFO] Successfully processed: readme_sample.txt
+2026-10-31 16:07:59,674 [INFO] Successfully processed: sales.csv
+2026-10-31 16:07:59,699 [INFO] Successfully processed: sample_audio.wav
+2026-10-31 16:07:59,719 [INFO] Successfully processed: soft_tone.wav
+2026-10-31 16:07:59,720 [WARNING] Unsupported file: unknown.xyz
+2026-10-31 16:07:59,720 [INFO] Pipeline completed. Total=14 Successful=11 Failed=2 Unsupported=1
