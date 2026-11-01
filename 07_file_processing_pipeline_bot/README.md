@@ -49,7 +49,7 @@ It scans an input folder, detects file types, validates files, and processes the
 ## Project Structure
 
 ```text
-08_file_processing_pipeline/
+07_file_processing_pipeline_bot/
 ├── main.py
 ├── pipeline.py
 ├── config.py
