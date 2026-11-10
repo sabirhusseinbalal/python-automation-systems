@@ -12,16 +12,15 @@ progressing from beginner to advanced real-world projects.
 5.	[Folder Watcher](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/05_folder_watcher/)
 6.	[Automated Report Generator](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/06_automated_report_generator/)
 07. [File Processing Pipeline_Bot](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/07_file_processing_pipeline_bot/)
-08.	Data Sync Tool (Local → Cloud)
-09.	Cron Job Manager
+08.	Cron Job Manager
 
    — DevOps Automation
    
-   10.	Auto Deployment Script
+   09.	Auto Deployment Script
 
    — Final Capstone
    
-   11. Social Media Auto Poster (API-based)
+   10. Social Media Auto Poster (API-based)
 
 ### Clone the repository using the command:
    ```bash
