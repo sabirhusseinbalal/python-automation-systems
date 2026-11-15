@@ -36,4 +36,4 @@ progressing from beginner to advanced real-world projects.
 5. [Security, Encryption & Utilities](https://github.com/sabirhusseinbalal/python-security-utilities)
 6. [CLI, GUI & Small Apps](https://github.com/sabirhusseinbalal/python-cli-gui-apps)
 7. 👉 **Automation Systems & Bots**
-8. [Advanced Python Projects](https://github.com/sabirhusseinbalal/python-advanced-projects)
+8. [Advanced Python Project](https://github.com/sabirhusseinbalal/python-advanced-project)
