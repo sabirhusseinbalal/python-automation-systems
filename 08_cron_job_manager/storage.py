@@ -1,5 +1,4 @@
 import json
-from config import DATA_DIR
 
 # Load data
 def load_jobs(file_path):
@@ -19,4 +18,3 @@ def save_jobs(jobs, file_path):
 
     with file_path.open("w", encoding="utf-8") as f:
         json.dump(jobs, f, indent=2)
-

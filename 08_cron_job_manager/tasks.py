@@ -13,9 +13,12 @@ TASKS = {
     "folder_check_task":check_folder
 }
 
+
 def get_task(name):
 
     if name not in TASKS:
         raise KeyError(f"Unknown task: '{name}'. Available tasks: {list(TASKS.keys())}")
     
     return TASKS[name]
+
+
