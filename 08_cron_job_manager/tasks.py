@@ -6,3 +6,9 @@ def run_backup():
 
 def check_folder():
     print("[Folder]: Checking folder...")
+
+TASKS = {
+    "report_task":generate_report,
+    "backup_task":run_backup,
+    "folder_check_task":check_folder
+}
