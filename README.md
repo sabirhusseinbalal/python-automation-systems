@@ -13,14 +13,10 @@ progressing from beginner to advanced real-world projects.
 6.	[Automated Report Generator](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/06_automated_report_generator/)
 07. [File Processing Pipeline_Bot](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/07_file_processing_pipeline_bot/) | unfinished
 08.	Cron Job Manager
-
-   — DevOps Automation
    
-   09.	Auto Deployment Script
-
    — Final Capstone
    
-   10. Social Media Auto Poster (API-based)
+   09. Social Media Auto Poster (API-based)
 
 ### Clone the repository using the command:
    ```bash
