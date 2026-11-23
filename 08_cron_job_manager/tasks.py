@@ -20,5 +20,3 @@ def get_task(name):
         raise KeyError(f"Unknown task: '{name}'. Available tasks: {list(TASKS.keys())}")
     
     return TASKS[name]
-
-
