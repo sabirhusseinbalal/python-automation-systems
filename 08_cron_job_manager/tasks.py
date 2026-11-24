@@ -1,11 +1,16 @@
+from logger import logger
+
 def generate_report():
     print("[Report]: Generating morning report...")
+    logger.info("[Report]: Generating morning report...")
 
 def run_backup():
     print("[Backup]: Running backup...")
+    logger.info("[Backup]: Running backup...")
 
 def check_folder():
     print("[Folder]: Checking folder...")
+    logger.info("[Folder]: Checking folder...")
 
 TASKS = {
     "report_task":generate_report,
@@ -20,3 +25,5 @@ def get_task(name):
         raise KeyError(f"Unknown task: '{name}'. Available tasks: {list(TASKS.keys())}")
     
     return TASKS[name]
+
+

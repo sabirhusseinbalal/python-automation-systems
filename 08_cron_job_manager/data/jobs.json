@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": "job_001",
+    "name": "Test",
+    "task": "report_task",
+    "trigger_type": "cron",
+    "trigger_args": {
+      "minute": 5
+    }
+  }
+]
