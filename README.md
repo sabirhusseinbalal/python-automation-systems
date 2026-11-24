@@ -5,14 +5,14 @@ progressing from beginner to advanced real-world projects.
 
 ## 📌 Planned Projects
 
-1.	[Telegram Bot with Commands](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/01_telegram_bot/)
-2.	[Discord Bot with Python](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/02_discord_bot/)	
-3.	[Email Sender](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/03_email_sender/)	
-4.	[Schedule Backup System](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/04_scheduled_backup_system/)
-5.	[Folder Watcher](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/05_folder_watcher/)
-6.	[Automated Report Generator](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/06_automated_report_generator/)
+01. [Telegram Bot with Commands](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/01_telegram_bot/)
+02. [Discord Bot with Python](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/02_discord_bot/)	
+03. [Email Sender](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/03_email_sender/)	
+04. [Schedule Backup System](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/04_scheduled_backup_system/)
+05. [Folder Watcher](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/05_folder_watcher/)
+06. [Automated Report Generator](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/06_automated_report_generator/)
 07. [File Processing Pipeline_Bot](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/07_file_processing_pipeline_bot/) | unfinished
-08.	Cron Job Manager
+08. [Cron Job Manager](https://github.com/sabirhusseinbalal/python-automation-systems/tree/main/08_cron_job_manager/)
    
    — Final Capstone
    
