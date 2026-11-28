@@ -1,4 +1,3 @@
-# Section 1: imports
 import logging
 from config import LOG_FILE, LOG_DIR
 
